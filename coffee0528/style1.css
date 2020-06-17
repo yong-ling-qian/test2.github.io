@@ -1,0 +1,21 @@
+@charset "utf-8";
+#top-bg {
+	background-color: #DAF8F3;
+}
+.logo {
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: 44px;
+}
+.choose {
+	margin-top: 35px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+	left: 38px;
+}
+#greenline {
+	width: 100%;
+	height: 8px;
+	background-color: #1A605D;
+}
